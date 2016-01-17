@@ -1,0 +1,1 @@
+mobservable = require('mobservable');

@@ -1,0 +1,1 @@
+mobservable = Npm.require('mobservable');
